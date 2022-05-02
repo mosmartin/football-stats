@@ -1,0 +1,23 @@
+{
+  "name": "football-stats",
+  "version": "1.0.0",
+  "description": "PL Stats",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node-dev src/index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mosmartin/football-stats.git"
+  },
+  "author": "Martin Macharia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mosmartin/football-stats/issues"
+  },
+  "homepage": "https://github.com/mosmartin/football-stats#readme",
+  "devDependencies": {
+    "ts-node-dev": "^1.1.8",
+    "typescript": "^4.6.4"
+  }
+}
